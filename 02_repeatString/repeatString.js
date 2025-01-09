@@ -1,4 +1,7 @@
-const repeatString = function() {
+const repeatString = function(text,number) {
+    // edit
+    a = text.repeat(number);
+    return a;
 
 };
 
